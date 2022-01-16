@@ -1,6 +1,6 @@
-name: EZPing
+name: Ping
 version: 1.0.0
-main: EZPing\main
+main: Ping\main
 api: 3.0.0
 description: Plugin that can show your ping by using /ping.
 author: Dready
