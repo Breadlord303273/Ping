@@ -124,7 +124,7 @@ class Main extends PluginBase implements Listener {
                 }
                 break;
             case'pinginfo':
-                $sender->sendMessage("§7-=== §6EZPing §7===-");
+                $sender->sendMessage("§7-=== §6Ping §7===-");
                 $sender->sendMessage("§eAuthor: §aDready");
                 $sender->sendMessage("§eDescription: §aGet your ping status");
                 $sender->sendMessage("§7-====================-");
